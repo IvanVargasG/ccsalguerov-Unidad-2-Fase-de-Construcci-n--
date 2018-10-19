@@ -24,7 +24,9 @@ height: 40px;
 
 
 }
-
+p{
+	text-align: justify;
+}
 nav ul li{
 
 	list-style-type: none;
