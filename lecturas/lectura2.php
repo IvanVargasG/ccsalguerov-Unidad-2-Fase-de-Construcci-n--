@@ -16,10 +16,27 @@
 </br>
 </br>
 
-<h1>Lectura 2</h1>
+<h1>Tipos de Requisitos</h1>
+<br>
+<br>
 <p>
-Se describe la Segunda lectura
+
+<b>Requisitos funcionales:</b> <br><br>
+Los requerimientos funcionales son aseveraciones de los servicios que el sistema debe proveer, como el<br>
+sistema debe reaccionar a entradas particulares y como el sistema debe<br>
+comportarse bajo situaciones particulares. En algunos casos los<br>
+requerimientos funcionales deben describir de manera explícita, lo que
+el sistema no debe hacer. (Addison, 2004)<br><br>
+<b>Requisitos no funcionales:</b><br><br> estos son restricciones sobre servicios y funcionalidades ofrecidas por el sistema, estas restricciones <br>normalmente aplican el sistema como un todo, y no deben aplicar a características particulares del sistema. (Addison, 2004)<br><br>
+<b>Requisitos de dominio:</b><br><br> Estos son requerimientos que
+provienen del dominio de aplicación del sistema y reflejan características<br>
+y restricciones de ese dominio. Estos pueden ser funcionales o no
+funcionales<br><br><br>
+<picture> <img src="../img/lectura2.png"></picture><br>
+<a href="https://es.slideshare.net/juanchenao/tipos-de-requisitos">Imagen Recuperada de</a><br>
+
 </p>
+
 
 
 </br>
