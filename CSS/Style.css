@@ -5,17 +5,21 @@
 	padding: auto;
 	position: relative;
 }
+
 header{
 	background-image: url(../img/header.png);
 	background-repeat: no-repeat;
 	background-size: 1000px;
 	height: 250px;
 }
+
+
 h2{
 	font-size: 30px;	
 	color: Gray;
 	margin: 10px;
-	text-align: center;	
+	text-align: justify;	
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 nav{
 background-color: rgb(188, 216, 4);
@@ -24,8 +28,12 @@ height: 40px;
 
 }
 p{
-	text-align: justify;
+	text-align: center;	
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
+
+
 nav ul li{
 
 	list-style-type: none;
@@ -39,9 +47,9 @@ footer{
 	margin: auto;
 	padding: auto;
 	position: relative;
-
-height: 90px;
-background-color: black;
+	
+	height: 90px;
+	background-color: black;
 
 
 }

@@ -2,19 +2,20 @@
 <html lang="es">
 <head>
 <meta charset="utf-8">
-	<title>Análisis de Requisitos</title>
-    <link rel="stylesheet" href="../CSS/Style.css">  
+<title>Análisis de Requisitos</title>
+<link rel="stylesheet" href="../CSS/Style.css">  
     
-</head>
-<body>
-	<DIV id= "contenido">
-		<header>
+	</head>
+	<body>
+		<DIV id= "contenido">
+		
+			<header>
 		
 
-			<img src="../img/logo unad header.png"alt="" style="float:left;" height="220px"width="220px" > <h1 style="color:white" font-family: 'Franklin Gothic Medium', 'Arial Narrow', 'Arial', 'sans-serif';> <center> Análisis de Requisitos </center></h1>
+				<img src="../img/logo unad header.png"alt="" style="float:left;" height="220px"width="220px" > <h1 style="color:white" font-family: 'Franklin Gothic Medium', 'Arial Narrow', 'Arial', 'sans-serif';> <center> Análisis de Requisitos </center></h1>
 
 
-        </header> 
+       		 </header> 
 
 <nav class="navegacion" > 
 	<ul class="menu" >
@@ -45,5 +46,3 @@
 	</ul>
 </nav>
 
-</br>
-</br>

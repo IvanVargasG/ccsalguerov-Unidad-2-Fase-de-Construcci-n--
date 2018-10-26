@@ -13,6 +13,7 @@
 
 
 
+
                                 <h2><strong><center>Videos sobre el an&aacute;lisis de requisitos.</center></strong></h2></br>
 
                                    
@@ -25,6 +26,9 @@
                         <h1><strong><center>T&eacute;cnicas de an&aacute;lisis de requerimientos del software</center></strong></h1></br>
 
                         <center><iframe width="560" height="315" src="https://www.youtube.com/embed/QGghVOV2TC8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center><br></br>
+
+
+                    <?php include ('../view/piepag.php');?>
 
 
                         <center><a text  class="twitter-timeline" data-lang="es" data-width="500" data-height="500" href="https://twitter.com/UniversidadUNAD?ref_src=twsrc%5Etfw">Tweets by UniversidadUNAD</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center></br></br>
