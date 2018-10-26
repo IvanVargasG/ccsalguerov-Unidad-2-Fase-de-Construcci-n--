@@ -1,19 +1,9 @@
 		
 			
-				<?php include ('../view/encabezado.php'); ?>
+				<?php include ('../view/encabezado.php'); ?></br>
 
-			
-
-
-
-
-				<div id="sfccds4l8nx1afxy324ud6dx43gexlktxmh"></div>
-				<script type="text/javascript" src="https://counter5.wheredoyoucomefrom.ovh/private/counter.js?c=cds4l8nx1afxy324ud6dx43gexlktxmh&down=async" async></script>
-				<noscript><a href="https://www.contadorvisitasgratis.com" title="contadores de paginas web gratuitos"><img src="https://counter5.wheredoyoucomefrom.ovh/private/contadorvisitasgratis.php?c=cds4l8nx1afxy324ud6dx43gexlktxmh" border="0" title="contadores de paginas web gratuitos" alt="contadores de paginas web gratuitos" style="float:right";></a></noscript></br>
 				
-			
-			
-					<h1><strong><center> Análisis de requisitos</center></strong></h1></br>
+					<h1> Análisis de requisitos</h1></br>
 			
 			
 			<blockquote>
@@ -38,7 +28,7 @@
 						<ol> 1. Debe representarse y entenderse el dominio de la información de un problema.</ol>
 						<ol> 2. Deben definirse las funciones que debe realizar el software</ol>
 						<ol> 3. Debe representarse el comportamiento del software (como consecuencia de acontecimientos externos),</ol>
-						<ol> 4. Deben dividirse los modelos que representan información, función y comportamiento de manera que se descubran los detalles por capas (o jerárquicamente).<br>
+						<ol> 4. Deben dividirse los modelos que representan información, función y comportamiento de manera que se descubran los detalles por capas (o jerárquicamente).<ol>
 						<ol> 5. El proceso de análisis debería ir desde la información esencial hasta el detalle de la implementación.</ol>
 					</blockquote>
 
@@ -61,15 +51,14 @@
 					</blockquote></br></br>
 
 
-			
-						<center><a text  class="twitter-timeline" data-lang="es" data-width="500" data-height="500" href="https://twitter.com/UniversidadUNAD?ref_src=twsrc%5Etfw">Tweets by UniversidadUNAD</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
-
+									
+				<?php include ('../view/contador.php') ;?>
 				<?php include ('../view/piepag.php');?>
 
 			</header>
 		
 
-		</DIV>
+		</div>
 		
 	</body>
 </html>

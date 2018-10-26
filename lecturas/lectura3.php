@@ -1,18 +1,10 @@
-		            <?php include ('../view/encabezado.php'); ?>
-
 		
+		
+		            <?php include ('../view/encabezado.php'); ?></br>		
 
 
-
-
-                        <div id="sfccds4l8nx1afxy324ud6dx43gexlktxmh"></div>
-                        <script type="text/javascript" src="https://counter5.wheredoyoucomefrom.ovh/private/counter.js?c=cds4l8nx1afxy324ud6dx43gexlktxmh&down=async" async></script>
-                        <noscript><a href="https://www.contadorvisitasgratis.com" title="contadores de paginas web gratuitos"><img src="https://counter5.wheredoyoucomefrom.ovh/private/contadorvisitasgratis.php?c=cds4l8nx1afxy324ud6dx43gexlktxmh" border="0" title="contadores de paginas web gratuitos" alt="contadores de paginas web gratuitos" style="float:right";></a></noscript></br></br>
-
-
-
-
-                            <h1><strong><center>Técnicas para analizar requerimientos de software</center></strong></h1></br></br>
+                                                                          
+                            <h1>Técnicas para analizar requerimientos de software</h1></br></br>
 
                                 <p><b> 1. Descomposición funcional</b></p></br>
 
@@ -155,19 +147,17 @@
                                     Puede enfocarse en toda la solución o sólo en áreas específicas, puede extenderse innecesariamente en el tiempo si las discusiones se realizan en torno al como en lugar de en torno al que la elaboración de prototipos conlleva iteraciones entre desarrolladores y usuarios, en los cuales se van elaborando varios prototipos y sometidos a evaluación del cliente.
                                     </blockquote></br>
 
- 				<p>pmoinformatica. (10 de Agosto de 2016). 8 Técnicas de análisis de requerimientos de software. Obtenido de http://www.pmoinformatica.com/2016/08/tecnicas-analisis-requerimientos.html</p>
+                                <p>pmoinformatica. (10 de Agosto de 2016). 8 Técnicas de análisis de requerimientos de software. Obtenido de http://www.pmoinformatica.com/2016/08/tecnicas-analisis-requerimientos.html</p>
 
-                        <center><a text  class="twitter-timeline" data-lang="es" data-width="500" data-height="500" href="https://twitter.com/UniversidadUNAD?ref_src=twsrc%5Etfw">Tweets by UniversidadUNAD</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+                       
+                    <?php include ('../view/contador.php') ;?>                        
 
                     <?php include ('../view/piepag.php');?>
 
-                </header>
+                 </header>
 
-
-            </DIV>
+            </div>
 
         </body>
 </html>
-
-
 

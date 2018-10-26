@@ -4,18 +4,32 @@
 <meta charset="utf-8">
 <title>Análisis de Requisitos</title>
 <link rel="stylesheet" href="../CSS/Style.css">  
+<link rel="stylesheet" href="../CSS/fonts.css">
     
-	</head>
+</head>
 	<body>
-		<DIV id= "contenido">
+		<div id= "contenido">
+			<DIV id= "contenidonav">
+			
+				<header>
 		
-			<header>
-		
 
-				<img src="../img/logo unad header.png"alt="" style="float:left;" height="220px"width="220px" > <h1 style="color:white" font-family: 'Franklin Gothic Medium', 'Arial Narrow', 'Arial', 'sans-serif';> <center> Análisis de Requisitos </center></h1>
+				<img src="../img/logo unad header.png"alt="" style="float:left;" height="220px"width="220px" > <h2 style="color:white" font-family: 'Franklin Gothic Medium', 'Arial Narrow', 'Arial', 'sans-serif';><center> Análisis de Requisitos</center></h2>
+
+					
+       			 </header> 
 
 
-       		 </header> 
+					<div class="social">
+						<ul>
+							<li><a href="https://www.facebook.com/UniversidadUNAD/" target="_blank" class="icon-facebook"></a></li>
+							<li><a href="https://www.youtube.com/user/universidadunad" target="_blank" class="icon-youtube1"></a></li>
+							<li><a href="https://twitter.com/UniversidadUNAD?ref_src=twsrc%5Etfw" target="_blank" class="icon-twitter"></a></li>
+							<li><a href="https://www.unad.edu.co/" class="icon-mail2"></a></li>							
+							<li><a href="https://www.instagram.com/universidadunad/" target="_blank" class="icon-instagram1"></a></li>
+							
+						</ul>
+					</div>
 
 <nav class="navegacion" > 
 	<ul class="menu" >
@@ -45,4 +59,5 @@
 		<li><a href="../Autores/autores.php"> Autores</a></li>
 	</ul>
 </nav>
-
+			</DIV>
+	

@@ -6,12 +6,27 @@
 	position: relative;
 }
 
+#contenidonav{
+
+	width: 1000px;
+	margin: auto;
+	padding: auto;
+	position: relative;
+}
+
 header{
 	background-image: url(../img/header.png);
 	background-repeat: no-repeat;
 	background-size: 1000px;
 	height: 250px;
 }
+
+h1 {
+	font-size: 30px;
+	color: #000;
+	font-family: 'Open Sans';
+	text-align: center;
+	}
 
 
 h2{
@@ -20,6 +35,7 @@ h2{
 	margin: 10px;
 	text-align: justify;	
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	
 }
 nav{
 background-color: rgb(188, 216, 4);
@@ -28,7 +44,14 @@ height: 40px;
 
 }
 p{
-	text-align: center;	
+	text-align: justify;	
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+p b{
+	text-align: none;	
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
@@ -39,7 +62,7 @@ nav ul li{
 	list-style-type: none;
 	float: left;
 	padding: 10px;
-	margin: 5px;
+	margin: 4px;
 	
 }
 footer{
@@ -93,7 +116,7 @@ header{
 
 .menu > li > a{
 	display: block;
-	padding: 15px 20px;
+	padding: 10px 20px;
 	color: rgb(25, 78, 148);
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	text-decoration: none;
@@ -107,7 +130,7 @@ header{
 /* Submenu*/
 
 .submenu{
-	position: absolute;
+	position: absolute;	
 	background: rgba(11, 11, 65, 0.72);
 	width: 120%;
 	visibility: hidden;
@@ -131,3 +154,35 @@ header{
 
 
 
+.social {
+	position: fixed; 
+	left: 0; 
+	top: 200px; 
+	z-index: 2000; 
+}
+ 
+	.social ul {
+		list-style: none;
+	}
+ 
+	.social ul li a {
+		display: inline-block;
+		color:#fff;
+		background: rgb(65, 39, 39);
+		padding: 20px 25px;
+		text-decoration: none;
+		-webkit-transition:all 500ms ease;
+		-o-transition:all 500ms ease;
+		transition:all 500ms ease;
+	}
+ 
+	.social ul li .icon-facebook {background:#3b5998;} 
+	.social ul li .icon-twitter {background: #00abf0;}
+	.social ul li .icon-googleplus {background: #d12e09;}
+	.social ul li .icon-pinterest {background: #ae181f;}
+	.social ul li .icon-mail {background: #666666;}
+ 
+	.social ul li a:hover {
+		background: #000; 
+		padding: 20px 30px; 
+	}
