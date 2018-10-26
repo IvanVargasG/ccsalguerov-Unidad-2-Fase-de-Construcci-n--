@@ -14,8 +14,11 @@
 </p>
 
 
+
 </br>
 </br>
+					<audio autoplay src="../audios/audio1.mp3" controls="controls" type="audio/mpeg" preload="preload">
+					</audio>
 
 	
 					

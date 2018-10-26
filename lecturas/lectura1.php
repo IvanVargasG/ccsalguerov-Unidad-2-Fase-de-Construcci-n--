@@ -3,7 +3,10 @@
 				<?php include ('../view/encabezado.php'); ?></br>
 
 				
-					<h1> Análisis de requisitos</h1></br>
+			
+			
+
+					<h1>Análisis de requisitos</h1></br>
 			
 			
 			<blockquote>
@@ -18,9 +21,11 @@
 						<ol> 3. Modelado</ol>
 						<ol> 4. Especificación</ol>
 						<ol> 5. Revisión </ol>
+
 					</blockquote>
 
 						<p>(pressman, 2010)</p></br>
+
 
 						<p> Todos los métodos de análisis se relacionan por un conjunto de principios operativos:</p></br>
 
@@ -30,6 +35,7 @@
 						<ol> 3. Debe representarse el comportamiento del software (como consecuencia de acontecimientos externos),</ol>
 						<ol> 4. Deben dividirse los modelos que representan información, función y comportamiento de manera que se descubran los detalles por capas (o jerárquicamente).<ol>
 						<ol> 5. El proceso de análisis debería ir desde la información esencial hasta el detalle de la implementación.</ol>
+
 					</blockquote>
 
 						<p>(pressman, 2010)</p> </br></br>
@@ -39,7 +45,9 @@
 							<a href="https://goo.gl/images/6dxozQ">Imagen Recuperada de</a></br></br>
 
 
+
 						<p> Además de los principios operativos mencionados anteriormente, se sugiere un conjunto de principios directrices para la ingeniería de requerimientos:</p></br>
+
 
 					<blockquote></br>
 						<ol> 1. Entender el problema antes de empezar a crear el modelo de análisis.</ol>
