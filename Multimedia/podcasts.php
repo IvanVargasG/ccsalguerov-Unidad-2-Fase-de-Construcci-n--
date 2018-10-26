@@ -21,10 +21,17 @@
 </p>
 
 
-</br>
-</br>
 
-	
+</br>
+</br>
+					<audio autoplay src="../audios/audio1.mp3" controls="controls" type="audio/mpeg" preload="preload">
+					</audio>
+
+
+
+
+	</br>
+</br>
 					<a text  class="twitter-timeline" data-lang="es" data-width="500" data-height="500" href="https://twitter.com/UniversidadUNAD?ref_src=twsrc%5Etfw">Tweets by UniversidadUNAD</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>	</p>
 
 				<?php include ('../view/piepag.php');?>
