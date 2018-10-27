@@ -71,7 +71,8 @@ footer{
 	margin: auto;
 	padding: auto;
 	position: relative;
-	height: 100px;
+	
+	height: 90px;
 	background-color: black;
 
 
@@ -101,7 +102,7 @@ ol li{
 
 
 header{
-	width: 90%;
+	width: 100%;
 }
 
 .navegacion{
@@ -138,7 +139,7 @@ header{
 .submenu{
 	position: absolute;	
 	background: rgba(11, 11, 65, 0.72);
-	width: 100%;
+	width: 110%;
 	visibility: hidden;
 	opacity: 0;
 	transition: opacity 1.5s;
