@@ -21,6 +21,7 @@ header{
 	height: 250px;
 }
 
+
 h1 {
 	font-size: 30px;
 	color: #000;
@@ -61,8 +62,8 @@ nav ul li{
 
 	list-style-type: none;
 	float: left;
-	padding: 10px;
-	margin: 4px;
+	padding: 4px;
+	margin: 0px;
 	
 }
 footer{
@@ -81,6 +82,12 @@ h3{
 	color:white;
 	text-align: center;
 	
+}
+
+ol li{	
+	text-align: justify;
+	padding: 5px;
+	margin: 1px;	
 }
 
 
@@ -116,14 +123,14 @@ header{
 
 .menu > li > a{
 	display: block;
-	padding: 10px 20px;
+	padding: 20px 40px;
 	color: rgb(25, 78, 148);
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	text-decoration: none;
 }
 
 .menu li a:hover{
-	color: #CE7D35;
+	color: rgb(230, 122, 28);
 	transition: all .3s;
 }
 
@@ -132,7 +139,7 @@ header{
 .submenu{
 	position: absolute;	
 	background: rgba(11, 11, 65, 0.72);
-	width: 120%;
+	width: 110%;
 	visibility: hidden;
 	opacity: 0;
 	transition: opacity 1.5s;

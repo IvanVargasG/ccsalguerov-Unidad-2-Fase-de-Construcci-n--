@@ -10,7 +10,7 @@
 	
 		<h1>Podcasts</h1>
 <p>
-    Se ingresan los podcasts
+A continuación, encuentras un audio que explica los conceptos del análisis de requisitos
 </p>
 
 

@@ -36,11 +36,12 @@
 		<li><a href="../view/index.php"> Inicio </a></li>
 		<li><a href="#"> Lectura </a>
 			<ul class="submenu">
+				<li><a href="../lecturas/lectura0.php"> Objetivos Analisi de requisitos </a></li>
 				<li><a href="../lecturas/lectura1.php"> Analisi de requisitos </a></li>
 				<li><a href="../lecturas/lectura2.php"> Tipos de requisitos </a></li>
 				<li><a href="../lecturas/lectura3.php"> Tecnicas de analisis </a></li>
-				<li><a href="../lecturas/lectura4.php"> Lectura #4 </a></li>
-				<li><a href="../lecturas/lectura5.php"> Lectura #5 </a></li>
+				<li><a href="../lecturas/lectura4.php"> Proceso de requsitos </a></li>
+				<li><a href="../lecturas/lectura5.php"> Requerimientos de software ERS </a></li>
 			</ul>
 		</li> 
 		<li><a href="#"> Multimedia </a>
@@ -51,7 +52,7 @@
 		</li> 
 		<li><a href="#"> Actividades </a>
 			<ul class="submenu">
-					<li><a href="../Actividades/sub-items1.php">Sub-ítems  #1</a></li>
+					<li><a href="../Actividades/sub-items1.php"> Crucigrama </a></li>
          			<li><a href="../Actividades/sub-items2.php">Sub-ítems  #2</a></li>
           			<li><a href="../Actividades/sub-items3.php">Sub-ítems  #3</a></li>     			
 			</ul>
