@@ -27,8 +27,7 @@
 							Dar a conocer el formato IEEE830 y su correcto diligenciamiento <br>
 
 
-	
-					<center><a text  class="twitter-timeline" data-lang="es" data-width="500" data-height="500" href="https://twitter.com/UniversidadUNAD?ref_src=twsrc%5Etfw">Tweets by UniversidadUNAD</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+					
 
 				<?php include ('contador.php');?>
 				<?php include ('piepag.php');?>

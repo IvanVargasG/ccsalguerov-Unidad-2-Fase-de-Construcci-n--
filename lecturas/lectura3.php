@@ -61,6 +61,10 @@
                                     deben desglosarse en componentes (subprocesos).
                                     </blockquote></br>
 
+                                    <center><picture><img src="../img/F_Proceso.png"></picture></center>
+
+                                    <li><a href="https://www.google.com.ar/search?q=modelo+de+proceso&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjrteDz8aHeAhWFEpAKHYTKDuoQ_AUIDigB&biw=1440&bih=794#imgrc=wu5rgQKPOl6QvM:"> Recuperado de Wikipedia. (S.F.). Modelo Proceso. </a></li></br></br>
+
                                 <p> La relación entre los diagramas de flujo y la gerencia de proyectos es fundamental para el éxito.</p></br>
 
 
@@ -77,6 +81,9 @@
                                     datos; Un tipo de modelo de dominio son los diagramas de funcionalidades (Features Diagrams), que es una 
                                     representación “compacta” del sistema o aplicación en términos de sus características.
                                     </blockquote></br>
+
+                                   <center><picture><img src="../img/D_Funcionalidades.png"></picture></center>
+                                   <li><a href="https://www.google.com.ar/search?q=diagrama+de+funcionalidad&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwia047i76HeAhVROZAKHfILCSMQ_AUIDigB&biw=1440&bih=794#imgrc=3VwkkoqU0sSgnM:"> Recuperado de Wikipedia. (S.F.). Diagrama de funcionalidad. </a></li></br></br>
 
                                     <blockquote>
                                         El análisis de dominio produce modelos orientados a objetos o modelos relacionales de datos, que pueden ser usados 
@@ -100,6 +107,10 @@
 
                                     <p>No son la mejor opción en sistemas sin usuarios, o dominados fundamentalmente por requerimientos no funcionales.</p></br>
 
+                                    <center><picture><img src="../img/C_Uso.png"></picture></center>
+                                    <li><a href="https://msdn.microsoft.com/es-es/library/dd409427.aspx"> Recuperado de msdn.microsoft. (2015). Diagramas de casos de uso de UML </a></li></br></br>
+
+                                    <p><b> 6. Checklists </b></p></br>
 
                                     <blockquote>
                                         La lista de chequeo (Checklist) consiste en una serie de preguntas o revisiones que se realizan sobre los requerimientos 
@@ -121,6 +132,9 @@
                                     </blockquote></br>
 
 
+                                <p><b> 7. Inspección </b></p></br>
+
+
                                 <p> Revisión no destructiva de los requerimientos de software. Por ejemplo:</p></br>
                                         <ul>
                                             <li> Examinar un software visualmente para constatar que las pantallas solicitadas se encuentran incluidas.</li>
@@ -135,7 +149,7 @@
                                     matriz de trazabilidad o definición de alcance, leerlo y producir un resultado para su corrección.
                                     </blockquote></br>
 
-
+                                <p><b> 8. Prototipos </b></p></br>
 
                                 <p> Consiste en elaborar representaciones visuales (interfaz gráfica con el usuario) de los requerimientos de software.</br>
 
@@ -148,7 +162,13 @@
                                     Puede enfocarse en toda la solución o sólo en áreas específicas, puede extenderse innecesariamente en el tiempo si las discusiones se realizan en torno al como en lugar de en torno al que la elaboración de prototipos conlleva iteraciones entre desarrolladores y usuarios, en los cuales se van elaborando varios prototipos y sometidos a evaluación del cliente.
                                     </blockquote></br>
 
-                                <p>pmoinformatica. (10 de Agosto de 2016). 8 Técnicas de análisis de requerimientos de software. Obtenido de http://www.pmoinformatica.com/2016/08/tecnicas-analisis-requerimientos.html</p>
+                                    <center><picture><img src="../img/Prototipo.png"></picture></center>
+                                    <li><a href="https://www.google.com.ar/search?safe=strict&biw=1440&bih=794&tbm=isch&sa=1&ei=BvXRW83HGoOTwgSrvJyQDQ&q=Prototipos+analisis+de+requisitos+interfaz+gr%C3%A1fica+pagina&oq=Prototipos+analisis+de+requisitos+interfaz+gr%C3%A1fica+pagina&gs_l=img.3...66788.681"> Recuperado de Wikipedia. (S.F). Prototipos. </a></li></br></br></br>
+
+
+                                    <li><a href="http://www.pmoinformatica.com/2016/08/tecnicas-analisis-requerimientos.html"><i> Recuperado de pmoinformatica. (10 de Agosto de 2016). 8 Técnicas de análisis de requerimientos de software. </i></a></li></br></br></br>
+
+                               
 
                        
                     <?php include ('../view/contador.php') ;?>                        
