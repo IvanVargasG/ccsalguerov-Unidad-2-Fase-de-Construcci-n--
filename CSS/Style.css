@@ -62,7 +62,7 @@ nav ul li{
 
 	list-style-type: none;
 	float: left;
-	padding: 2px;
+	padding: 4px;
 	margin: 0px;
 	
 }
@@ -139,7 +139,7 @@ header{
 .submenu{
 	position: absolute;	
 	background: rgba(11, 11, 65, 0.72);
-	width: 100%;
+	width: 110%;
 	visibility: hidden;
 	opacity: 0;
 	transition: opacity 1.5s;
