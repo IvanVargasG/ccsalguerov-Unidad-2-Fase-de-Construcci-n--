@@ -6,7 +6,14 @@
 
 		<h1>Sub-Items 2</h1>
 <p>
-   Se agrega el contenido del items 2
+   sopa de letras<br>
+   <br>
+   <br>
+   trata de encontrar todas las palabras<br>
+   <br>
+   <br>
+
+   <img src="../img/sopa de letras.png">
 </p>
 
 </br>
