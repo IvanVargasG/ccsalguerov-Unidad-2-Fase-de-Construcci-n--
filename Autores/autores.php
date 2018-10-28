@@ -11,7 +11,7 @@ Cristian Chayane Salguero Valero
 Mi nombre  es Cristian Chayane Salguero Valero identificado con la cedula de ciudadania  1049652609, naci <br>
 en el municipio de Choconta el 24 de enero de 1998, soy estudiante <br>
 de ingeniería de sistemas en la Universidad Nacional Abierta y a Distancia, me gradue como bachiller en la Escuela Normal<br>
-Superior Maria Auxiliadora de Villapinzon, me gusta programar, el rock y los videojuegos vivo en Tunja actualmente<br>
+Superior Maria Auxiliadora de Villapinzon, me gusta programar, el rock y los videojuegos vivo en Tunja actualmente.<br>
 
 Mi Skype :salguerocristian1@hotmail.com<br>
 Mi Email :chayanesalguero1@gmail.com
