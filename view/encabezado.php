@@ -53,8 +53,8 @@
 		<li><a href="#"> Actividades </a>
 			<ul class="submenu">
 					<li><a href="../Actividades/sub-items1.php"> Crucigrama </a></li>
-         			<li><a href="../Actividades/sub-items2.php">Sub-ítems  #2</a></li>
-          			<li><a href="../Actividades/sub-items3.php">Sub-ítems  #3</a></li>     			
+         			<li><a href="../Actividades/sub-items2.php"> Sopa de Letras </a></li>
+          			<li><a href="../Actividades/sub-items3.php"> Material de Apoyo</a></li>     			
 			</ul>
 		</li> 
 		<li><a href="../Autores/autores.php"> Autores</a></li>
