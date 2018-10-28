@@ -46,7 +46,7 @@
 		</thead>
 				<tbody></br></br>
 					<tr>
-						<td rowspan="4" height="120px"width="150px" ><center><picture><img src="../img/fotocristian.png" alt="" style="float:left;" height="130px"width="170px"></picture></td>
+					<td rowspan="4" height="120px"width="150px" ><center><picture><img src="../img/fotoCristian.png" alt="" style="float:left;" height="130px"width="170px"></picture></td>
 							<th>Autor</th>
 							
 							<th>Carrera</th>
