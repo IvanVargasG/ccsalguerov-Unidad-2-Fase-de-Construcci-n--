@@ -24,10 +24,10 @@
 						Diferenciar los requerimientos funcionales de los no funcionales además de reconocer como interactúan estos durante el proceso de análisis de requerimientos
 
 						<h2>Objetivo específico 3</h2>
-							Dar a conocer el formato IEEE830 y su correcto diligenciamiento <br>
+							Dar a conocer el formato IEEE830 y su correcto diligenciamiento </br></br>
 
 
-					
+					<center><a text  class="twitter-timeline" data-lang="es" data-width="500" data-height="500" href="https://twitter.com/UniversidadUNAD?ref_src=twsrc%5Etfw">Tweets by UniversidadUNAD</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>	</p></center></br></br>
 
 				<?php include ('contador.php');?>
 				<?php include ('piepag.php');?>

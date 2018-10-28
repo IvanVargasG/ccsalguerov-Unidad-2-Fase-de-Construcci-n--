@@ -47,7 +47,7 @@
 		<li><a href="#"> Multimedia </a>
 			<ul class="submenu">
 				<li><a href="../Multimedia/podcasts.php"> Podcasts </a></li>
-				<li><a href="../Multimedia/videos.php"> Videos de YouTube </a></li>				
+				<li><a href="../Multimedia/videos.php"> Videos de requisitos </a></li>				
 			</ul>
 		</li> 
 		<li><a href="#"> Actividades </a>
