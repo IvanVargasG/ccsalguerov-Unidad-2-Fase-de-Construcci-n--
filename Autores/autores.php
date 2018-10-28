@@ -76,7 +76,7 @@
 			</thead>
 				<tbody></br></br>
 					<tr>
-						<td rowspan="4" height="120px"width="150px" ><center><picture><img src="../img/" alt="" style="float:left;" height="130px"width="170px"></picture></td>
+						<td rowspan="4" height="120px"width="150px" ><center><picture><img src="../img/milena.png" alt="" style="float:left;" height="130px"width="170px"></picture></td>
 							<th>Autor</th>
 							
 							<th>Carrera</th>
@@ -95,7 +95,7 @@
 		</thead>			
 					<tr>
 							<td colspan="2">
-								La descripción personal
+								Mi nombre  es Claudia Milena Torres
 							</td>							
 					</tr>
 
