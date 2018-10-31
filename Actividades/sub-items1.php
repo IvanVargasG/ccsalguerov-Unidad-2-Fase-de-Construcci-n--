@@ -16,9 +16,9 @@
 	
 		<center><picture><img src="../img/Crucigrama.png"></picture></center></br></br>
 
-	<p>
-		Solo tienes que ingresar <a href="https://crosswordlabs.com/view/analisis-de-requisitos"target="_blank"> Aqui</a> para poder disfrutarlo</br></br>
-	</p>
+	
+	<p>	Solo tienes que ingresar <a href="https://crosswordlabs.com/view/analisis-de-requisitos"target="_blank"> Aqui</a> para poder disfrutarlo</p></br></br>
+	
 
 
 	

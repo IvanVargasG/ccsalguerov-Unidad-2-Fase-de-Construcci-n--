@@ -4,7 +4,7 @@
 
 		
 
-		<h1>Sub-Items 2</h1>
+		<h1>Sopa de letras que reforzara el tema</h1>
 <p>
    sopa de letras<br>
    <br>
